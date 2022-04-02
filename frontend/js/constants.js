@@ -434,7 +434,7 @@ const abi = [
         name: "account",
         type: "address",
       },
-    ],
+    ], 
     name: "grantRole",
     outputs: [],
     stateMutability: "nonpayable",
